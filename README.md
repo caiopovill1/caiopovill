@@ -1,7 +1,5 @@
 ### Hello, i am caio povill. An economy and statistics student! 😙
 
-<br>
-
 #### I'll use this github to post data analysis, python codes, tricks and everything about machine learning.  I'm a data science enthusiast
 
 <br>
@@ -16,8 +14,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
-<br>
 
 <hr>
 
