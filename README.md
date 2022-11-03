@@ -1,4 +1,4 @@
-### Hello, i am caio povill. An economy and statistics student! 😙
+### Hello, i am caio povill! 😙
 
 #### I'll use this github to post data analysis, python codes, tricks and everything about machine learning.  I'm a data science enthusiast
 
